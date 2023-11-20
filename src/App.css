@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.home-div {
+  background: url(./assets/old-edwards-inn-wedding-cr-courtesy.webp);
+  height: 60vh;
+  width: 100%;
+  background-size: cover;
+  background-position: 40% 50%;
+  border-bottom: 1px solid rgb(118, 91, 61);
+}
+
+.bg-body-tertiary {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  background-color: rgb(233,229,221);
+  border-bottom: 1px solid rgb(118, 91, 61);
+  padding: 20px;
+}
+
+
+
+
+
+
+
